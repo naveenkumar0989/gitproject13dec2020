@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Main file used for git commands.
-=======
 This is main file. Which is important file for git configuration.
->>>>>>> 816a93b (main file updated)
+
